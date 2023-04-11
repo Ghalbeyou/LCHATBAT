@@ -1,4 +1,7 @@
 # LCHATBAT
+THIS PROJECT IS NOT UPDATED ANYMORE.
+
+
 LCHATBAT (Local Chatting-Program bat) is a program that you can chat with local users on windows.
 
 Its friendly and its only for fun!
